@@ -1,4 +1,4 @@
-from Functions.conn import db_upload
+# from Functions.conn import db_upload
 import pandas as pd
 from keras.models import Sequential
 from keras.layers import Dense, Dropout
